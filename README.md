@@ -86,7 +86,7 @@
                 <li><a href="#plato4">Ramen</a></li>
                 <li><a href="#Galletas">Galletas</a></li>
                 <li><a href="#plato6">Coctel de frutas</a></li>
-  <img src="Cat.png">
+  <img src="Cat.jpg">
             </ul>
         </nav>
         <section id="Gato Bebidas de Boba">
@@ -115,7 +115,7 @@
         </section>
         <section id="Galletas">
             <h2>Michi Galletas</h2>
-            <img src="galleta.jpg" alt=Galletas">
+            <img src="galleta.jpg" alt="Galletas">
             <p>Galletas de mantequilla con diseño gatuno</p>
             <p>Precio: $80 El conjunto de 5 galletas</p>
         </section>
