@@ -85,7 +85,7 @@
                 <li><a href="#plato4">Ramen</a></li>
                 <li><a href="#Galletas">Galletas</a></li>
                 <li><a href="#plato6">Coctel de frutas</a></li>
-  <img src="Cat.jpg">
+  <img src="cat.jpg">
             </ul>
         </nav>
         <section id="Gato Bebidas de Boba">
@@ -120,7 +120,7 @@
         </section>
         <section id="Mini cat tail de frutas">
             <h2>Mini cat tail de frutas</h2>
-            <img src="Coctel.jpg" alt="Mini cat tail de frutas">
+            <img src="coctel.jpg" alt="Mini cat tail de frutas">
             <p>Un postre pequeño, coctel de mora azul, sandía, melon, ciruela y mango
             <p>Precio: $25</p>
         </section>
