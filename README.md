@@ -85,6 +85,7 @@
                 <li><a href="#plato4">Ramen</a></li>
                 <li><a href="#Galletas">Galletas</a></li>
                 <li><a href="#plato6">Coctel de frutas</a></li>
+                
   <img src="cat.jpg">
             </ul>
         </nav>
