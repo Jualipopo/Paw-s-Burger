@@ -1,4 +1,4 @@
-<html>
+html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -80,11 +80,11 @@
             <h2>Menú del Restaurante</h2>
             <ul>
                 <li><a href="#Bebidas de boba">Bebidas de Boba</a></li>
-                <li><a href="#Café">Cafés</a></li>
-                <li><a href="#plato3">Hamburguesas</a></li>
-                <li><a href="#plato4">Ramen</a></li>
+                <li><a href="#Catfé">Catfés</a></li>
+                <li><a href="#Hamburguesas">Hamburguesas</a></li>
+                <li><a href="#Ramen">Ramen</a></li>
                 <li><a href="#Galletas">Galletas</a></li>
-                <li><a href="#plato6">Coctel de frutas</a></li>
+                <li><a href="#Mini cat tail de frutas">Coctel de frutas</a></li>
   <img src="cat.jpg" width=80% height=80%>
             </ul>
         </nav>
