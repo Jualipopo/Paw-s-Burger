@@ -86,7 +86,7 @@
                 <li><a href="#Galletas">Galletas</a></li>
                 <li><a href="#plato6">Coctel de frutas</a></li>
                 
-  <img src="cat.jpg" width=80% height=80%>
+  <img src="cat.jpg">
             </ul>
         </nav>
         <section id="Gato Bebidas de Boba">
